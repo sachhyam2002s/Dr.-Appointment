@@ -4,6 +4,7 @@ import Navbar from './components/Navbar'
 import Home  from './components/Home'
 import About  from './components/About'
 import Contact  from './components/Contact'
+import Footer from './components/Footer'
 // import { Contact } from 'lucide-react'
 
 function App() {
@@ -11,13 +12,14 @@ function App() {
 
   return (
     <>
-    <Navbar title='Aasha Physiotherapy'/>
+    <Navbar title='Physiotherapy'/>
     <Routes>
       <Route path='/' element={<Home />} />
       <Route path='/home' element={<Home />} />
       <Route path='/about' element={ <About/>} />
       <Route path='/contact' element={ <Contact/>} />
     </Routes>
+    <Footer />
     </>
   )
 }
