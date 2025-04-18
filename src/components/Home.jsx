@@ -15,7 +15,7 @@ function Home() {
           </div>
 
           <div className="w-full lg:w-1/3 mb-8 lg:mb-0 flex justify-center lg:p-5">
-            <img className="max-w-xs sm:max-w-sm md:max-w-md h-120 object-contain rounded-2xl mix-blend-multiply opacity-100" src="doc1.jpg" alt="Dr. "/>
+            <img className="max-w-xs sm:max-w-sm md:max-w-md h-120 object-contain rounded-2xl mix-blend-multiply opacity-100" src="luisha3.png" alt="Dr. "/>
           </div>
 
           <div className="w-full lg:w-1/3 text-center space-y-6">
