@@ -14,7 +14,7 @@ function Contact() {
             <h2 className='text-4xl font-bold mb-4'>Get in Touch <br/>with the Doctor</h2>
             <p className='text-lg text-gray-600 leading-1.6 mb-4'>Have any questions or need physiotherapy care?Fill out the form, and we’ll reach out to you soon.Your recovery, mobility, and well-being are our top priorities.</p>
             <ul>
-              <li className='flex items-center gap-2'><Mail className='w-5 h-5'/><a href="mailto:gopixelboy@gmail.com" className='text-blue-900 font-semibold block mb-2 hover:underline'>gopixelboy@gmail.com</a></li>
+              <li className='flex items-center gap-2'><Mail className='w-5 h-5'/><a href="mailto:gopixelboy@gmail.com" className='text-blue-900 font-semibold block mb-2 hover:underline'>dr-physio@gmail.com</a></li>
               <li className='flex items-center gap-2'><Phone className='w-5 h-5'/><a href="tel:+9779876543210" className='text-blue-900 font-semibold block mb-2 hover:underline'>+977 9876543210</a></li>
             </ul>
         </div>

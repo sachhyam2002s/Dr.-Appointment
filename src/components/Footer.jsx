@@ -14,9 +14,9 @@ function Footer() {
                     <div className="mb-2 items-center">
                         <h3 className='text-lg font-semibold '>Contact Us:</h3>
                         <ul className='text-base space-y-1'>
-                            <li className='flex items-center gap-1'><Phone className='w-5 h-5'/><a href="tel:+9779823457844" className='hover:underline'>+977 9823457844</a></li>
-                            <li className='flex items-center gap-1'><Phone className='w-5 h-5'/><a href="tel:+9779825345687" className='hover:underline'>+977 9825345687</a></li>
-                            <li className='flex items-center gap-1'><Mail className='w-5 h-5'/><a href="gopixelboy@gmail.com" className='hover:underline'>gopixelboy@gmail.com</a></li>
+                            <li className='flex items-center gap-1'><Phone className='w-5 h-5'/><a href="tel:+9779876543210" className='hover:underline'>+977 9876543210</a></li>
+                            <li className='flex items-center gap-1'><Phone className='w-5 h-5'/><a href="tel:+9779801234567" className='hover:underline'>+977 9801234567</a></li>
+                            <li className='flex items-center gap-1'><Mail className='w-5 h-5'/><a href="dr-physio@gmail.com" className='hover:underline'>dr-physio@gmail.com</a></li>
                         </ul>
                     </div>
 
@@ -32,7 +32,7 @@ function Footer() {
                 </div>
             </div>
             <hr />
-            <p className="text-center font-semibold pt-2">Copyright 2025 - All rights reserved by Physiotherapy.</p>
+            <p className="text-center font-semibold pt-2">Copyright 2025 - All rights reserved by Dr. Physio.</p>
         </div>
     </div>
 

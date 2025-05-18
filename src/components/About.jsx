@@ -6,14 +6,14 @@ function About() {
     <div className='bg-blue-100 p-10 px-4 pb-17'>
       <div className="flex flex-col md:flex-row justify-between items-center max-w-6xl gap-8 mx-auto">
         <div className="flex justify-center items-center w-full md:w-auto">
-            <img src="luisha3.png" alt="" className='w-full max-w-[300px] rounded-[10px] shadow object-cover mb-5 max-h-[400px]'/>
+            <img src="doctor2.jpg" alt="" className='w-full max-w-[300px] rounded-[10px] shadow object-cover mb-5 max-h-[400px]'/>
         </div>
         <div className="flex-1 min-w-[280px]">
-            <h1 className='text-3xl mb-3 font-bold'><b>About Dr. Luisha Shrestha(PT)</b></h1>
+            <h1 className='text-3xl mb-3 font-bold'><b>About Dr. Physio(PT)</b></h1>
             <cite className='text-gray-600 block mb-3 leading-5 '>Physiotherapist</cite>
-            <p className='text-lg mb-4'>Dr. (PT) is a compassionate and highly skilled physiotherapist dedicated to providing personalised healthcare for patients with ortho neuro cardio and sports injuries. Dr. Luisha Shrestha (PT) is specialized in preventive care, chronic pain management and holistic health solutions.</p>
+            <p className='text-lg mb-4'>Dr. Physio(PT) is a compassionate and highly skilled physiotherapist dedicated to providing personalised healthcare for patients with ortho neuro cardio and sports injuries. Dr. ...(PT) is specialized in preventive care, chronic pain management and holistic health solutions.</p>
             <blockquote className='text-gray-500 pl-4 border-l-2 italic mb-4'>"A medical investigator and magical healer who combines patience with intelligence to restore movement and functionality to the bodies of many."</blockquote>
-            <p className='mb-1'><strong>Location:</strong> Krishna mandir, Mahalaxmi</p>
+            <p className='mb-1'><strong>Location:</strong> Patan, Lalitpur</p>
             <p><strong>Education:</strong> Bachelors of physical therapy, MA psycology
             </p>
         </div>
